@@ -1,0 +1,25 @@
+ul {
+    margin: 0;
+}
+
+li {
+    padding: 8px;
+    list-style-type: none;
+}
+
+li:nth-child(even){
+    background: gray;
+}
+
+.btn {
+    text-align: center;
+    padding-top: 2rem;
+}
+
+button {
+ 
+    padding: 10px 20px;
+    color: red;
+    background: rgb(172, 175, 172);
+
+}
